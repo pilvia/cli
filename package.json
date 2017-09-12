@@ -1,0 +1,27 @@
+{
+  "name": "pilvia",
+  "version": "0.0.1",
+  "description": "A Nifty command line tool for Pilvia",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "pilvia": "./pilvia.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pilvia/cli.git"
+  },
+  "keywords": [
+    "cli",
+    "pilvia",
+    "wordpress",
+    "hosting"
+  ],
+  "author": "sami.niemi@pilvia.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pilvia/cli/issues"
+  },
+  "homepage": "https://github.com/pilvia/cli#readme"
+}
